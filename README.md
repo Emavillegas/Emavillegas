@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my own project with my brother. <br>Enter to the following link where you can see our jobs: <br>https://duwohdevelopers.com <br>I'm looking to collaborate with others developers. <br>I'm currently learning React with Fernando Herrera at Udemy. <br>Ask me about Web Design. <br>I'm looking for  team working. <br>
+I'm a web developer working on my own project with my brother. Enter to the following link where you can see our jobs: https://duwohdevelopers.com. At the same time, i'm studyng programming at  UTN in Mar del Plata. In the other hand, i'm learning React with Fernando Herrera at Udemy. Ask me about Web Design.
 
 
 ## 🌐 Socials:
